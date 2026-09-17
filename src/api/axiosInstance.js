@@ -7,7 +7,7 @@ const axiosInstance = axios.create({
   // baseURL: import.meta.env.VITE_API_URL,
   // baseURL: "https://api.zanithpay.com/",
   // baseURL: "http://192.168.1.4:5000/",
-  baseURL: "http://localhost:4000/",
+  baseURL: "https://server.spiralpay.in/",
   headers: {
     "Content-Type": "application/json",
      },
